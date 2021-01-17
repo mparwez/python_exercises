@@ -1,1 +1,2 @@
 
+print(end1 + end2 + end3 + end4 + end5 + end6, end=' ') #forgot the comma after end6
