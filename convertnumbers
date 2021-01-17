@@ -1,0 +1,12 @@
+height = 74 #inches
+centimeters = height * 2.54
+weight = 180 #lbs
+kilograms = weight / 2.205
+
+
+
+print(f"He's {height} inches tall.")
+print(f"He's {weight} pounds heavy.")
+print(f"He's {centimeters} centimeters tall.")
+print(f"His weight is {kilograms} kilograms")
+
