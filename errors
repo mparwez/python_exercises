@@ -1,2 +1,13 @@
 
 print(end1 + end2 + end3 + end4 + end5 + end6, end=' ') #forgot the comma after end6
+
+
+
+
+
+fat_cat = """
+I'll do a list:
+\t* Cat food
+\t* Fishies
+\t* Catnip\n\t* Grass #ERROR forgot the * after the t, and so it didnt have a "*" in the beginning of Grass 
+""" #3 """ lets you type anything 
